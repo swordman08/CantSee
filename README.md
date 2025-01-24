@@ -1,2 +1,16 @@
-# CantSee
-Make sure all attendants can see the speaker on stage, using a monostack to make sure each row of attendees has a clear view of the speaker. It sucks going to an event and not being able to see over someone in front of you!
+Abstract:
+
+take a plain text file that consists of N lines,
+each line consists of P doubles (representing heights) separated by spaces. 
+The program will then use a monotonically decreasing stack or increasing to determine the number of people in
+each column of seats that can see the speaker clearly, as well as the heights of those
+people.
+
+
+Commands to compile / run:
+
+To compile and than to run
+1.      g++ *.cpp 
+
+2.      ./a.out
+
